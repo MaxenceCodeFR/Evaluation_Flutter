@@ -37,7 +37,6 @@ Afin de tester le projet
 
 ```bash
 git clone https://github.com/MaxenceCodeFR/Evaluation_Flutter.git
-  
 ```
 
 - Lancer le projet
@@ -63,11 +62,13 @@ Si vous ne pouvez ou ne voulez pas créer un utilisateur, vous pouvez utiliser :
 
 ```
 id: test@gmail.com
+```
+```
 mdp: azerty
 ```
 
 
-## Authors
+## Auteur
 
 - [@MaxenceCodeFR](https://www.github.com/MaxenceCodeFR)
 

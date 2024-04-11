@@ -45,14 +45,14 @@ flutter run
 ```
 
     
-## Color Reference
+## Références Couleurs
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | orangeAccent | ![#FFAB40](https://via.placeholder.com/20/ffab40?text=+)  |
 | orange | ![#FF9800](https://via.placeholder.com/20/ff9800?text=+)  |
 | orangeDeep | ![#FF5722](https://via.placeholder.com/20/ff5722?text=+) |
-| bone white | ![#FF5F5D](https://via.placeholder.com/20/f5f5dc?text=+) #F5F5DC |
+| bone white | ![#FF5F5D](https://via.placeholder.com/20/f5f5dc?text=+) |
 | grey[850] | ![#5E5E5D](https://via.placeholder.com/20/5e5e5dc?text=+) |
 
 ## Documentation

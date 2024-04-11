@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649634826070",
+    "project_id": "evalflutter-f7a56",
+    "storage_bucket": "evalflutter-f7a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649634826070:android:ccbba17bc5c7999c6978f7",
+        "android_client_info": {
+          "package_name": "com.example.eval_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFhjSemMGbySCFp_I9QBHta5cCcrGbmo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

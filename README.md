@@ -37,6 +37,8 @@ Afin de tester le projet
 
 ```bash
 git clone https://github.com/MaxenceCodeFR/Evaluation_Flutter.git
+
+cd Evaluation_Flutter
 ```
 
 - Attention à bien séléctionner le SDK Flutter sinon vous ne pouvez pas lancer l'application sur main.dart

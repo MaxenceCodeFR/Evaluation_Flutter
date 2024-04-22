@@ -54,6 +54,10 @@ flutter pub get
 flutter run
 ```
 
+## Wireframe 
+
+![image](https://github.com/MaxenceCodeFR/Evaluation_Flutter/assets/105151136/9604a39d-a25d-41c0-9294-e7946d7b27c2)
+
     
 ## Références Couleurs
 

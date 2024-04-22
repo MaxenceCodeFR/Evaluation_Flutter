@@ -39,6 +39,14 @@ Afin de tester le projet
 git clone https://github.com/MaxenceCodeFR/Evaluation_Flutter.git
 ```
 
+- Attention à bien séléctionner le SDK Flutter sinon vous ne pouvez pas lancer l'application sur main.dart
+  
+- Installer les dépendances nécessaires
+
+```bash
+flutter pub get
+```
+
 - Lancer le projet
 ```bash
 flutter run
@@ -72,3 +80,5 @@ mdp: azerty
 
 - [@MaxenceCodeFR](https://www.github.com/MaxenceCodeFR)
 
+###
+EDIT: Je me suis rendu compte aujourd'hui (22/042024) que je lançais l'appli via Chrome et que par extension ce n'est pas une appli mobile ...
